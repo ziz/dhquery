@@ -1,6 +1,10 @@
 # dhquery
 Automatically exported from code.google.com/p/dhquery
 
+## License
+
+GPLv2 (see http://web.archive.org/web/20150320155137/http://code.google.com/p/dhquery/)
+
 # DHCP command-line query and testing tool
 ## History
 I needed some DHCP testing tool for my projects, based on FreeRADIUS dhcp code.
